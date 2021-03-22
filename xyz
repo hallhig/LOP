@@ -1,4 +1,12 @@
 new test data.
+<<<<<<< HEAD
 a new line.
 the third line.
 fourth line.
+=======
+another line
+a third line
+add fourth line
+add yet another line
+
+>>>>>>> 49b4824daa8be582103342a6fdbff88533f16855
