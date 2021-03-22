@@ -8,5 +8,10 @@ another line
 a third line
 add fourth line
 add yet another line
+<<<<<<< HEAD
 
 >>>>>>> 49b4824daa8be582103342a6fdbff88533f16855
+=======
+This is line six.
+==============
+>>>>>>> 35bba14b299bd1506a76f1c1fb42bd0d7cf4856f
